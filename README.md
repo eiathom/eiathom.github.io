@@ -1,2 +1,3 @@
-# ian.thompson.github.io
-Professional Webpage of Ian Thompson (Software Engineer)
+## Welcome to eiathom's personal webpage project
+
+Visit: https://eiathom.github.io
